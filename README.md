@@ -1,0 +1,2 @@
+# Evolution_Simulator_Jupyter
+Este código simula los procesos evolutivos que podrían ocurrir en una población de mariposas debido a las presiones para camuflarse de diferentes depredadores como búhos, lagartos y pájaros. Seremos testigos acerca de como el color de sus alas tenderán a cambiar de blancas a negras en caso de que el color negro las ayude a pasar más inadvertidas a ojos de sus depredadores (o viceversa, de negras a blancas en caso de que específiquemos que el color blanco las ayuda a camuflarse de sus depredadores).
